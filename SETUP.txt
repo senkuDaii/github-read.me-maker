@@ -1,0 +1,89 @@
+# GitHub Profile README Generator
+
+Created by: **senku**  
+Copyright © 2024 senku. All rights reserved.
+
+---
+
+## 📋 What's Included
+
+This package contains everything you need to run the GitHub Profile README Generator:
+
+- `app.py` - Main Streamlit application
+- `requirements.txt` - Required Python packages
+- `README.md` - This file with instructions
+
+---
+
+## 🚀 Quick Setup (For Your Friend)
+
+### Step 1: Extract Files
+Extract all files to a folder (e.g., `readme-generator`)
+
+### Step 2: Install Python
+Make sure you have Python 3.8+ installed on your computer
+
+### Step 3: Install Dependencies
+Open terminal/command prompt and run:
+```bash
+pip install -r requirements.txt
+```
+
+### Step 4: Run the Application
+```bash
+streamlit run app.py --server.headless true
+```
+
+The app will open in your browser at `http://localhost:8501`
+
+---
+
+## 🎯 How to Use
+
+1. **Upload Profile Picture**: Use the drag & drop uploader in the sidebar
+2. **Fill Your Information**: 
+   - Name and GitHub username (required)
+   - Bio, skills, social links (optional)
+3. **Generate README**: Click "Generate README" button
+4. **Download**: Click "Download README.md" to save your file
+5. **Use on GitHub**: 
+   - Create a repository named `yourusername/yourusername`
+   - Upload the generated README.md file
+
+---
+
+## ✨ Features
+
+- 🖼️ Drag & drop profile picture upload
+- 🎨 11 beautiful GitHub stats themes
+- 🏷️ Automatic skill badges with logos
+- 🔗 Social media links support
+- 📝 Edit generated markdown directly
+- 📥 Download as README.md file
+
+---
+
+## 🔧 Requirements
+
+- Python 3.8 or higher
+- Internet connection (for GitHub stats)
+
+---
+
+## 📞 Support
+
+If you need help, contact **senku** or check the in-app instructions.
+
+---
+
+## ⚠️ Copyright Notice
+
+This software is created by **senku** and is protected by copyright.
+You may use this for personal and commercial purposes, but:
+- Keep this copyright notice intact
+- Do not claim this as your own creation
+- Credit **senku** when sharing
+
+---
+
+**Made with ❤️ by senku**
